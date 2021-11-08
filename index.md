@@ -1,29 +1,25 @@
----
-title: "Get Started"
-output: flexdashboard::flex_dashboard
----
-
-```{r setup, include=FALSE}
-library(flexdashboard)
+Visualizations {data-icon="fa-signal"}
+===================================== 
+    
+### Chart 1
+    
+```{r}
 ```
-
-Column 1
---------------------------------------------------
-
-### Chart A
+    
+### Chart 2
 
 ```{r}
 ```
+   
+Tables {data-icon="fa-table"}
+=====================================     
 
-Column 2
---------------------------------------------------
-
-### Chart B
-
+### Table 1
+    
 ```{r}
 ```
-
-### Chart C
+    
+### Table 2
 
 ```{r}
 ```
