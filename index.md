@@ -8,7 +8,7 @@
 tabela
 | Nome | Link |
 | ------ | ------ |
-| Geogebra | [](https://www.geogebra.org/classic) |
+| Geogebra | [Geogebra](https://www.geogebra.org/classic) |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
