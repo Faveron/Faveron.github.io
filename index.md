@@ -4,9 +4,11 @@
 
 ![Imagem teste](https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg "Matemática")
 
-| Plugin | README |
+
+tabela
+| Nome | Link |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| Geogebra | [](https://www.geogebra.org/classic) |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
