@@ -2,10 +2,7 @@ Visualizations {data-icon="fa-signal"}
 ===================================== 
     
 ### Chart 1
-    
-```{r}
-```
-    
+        
 ### Chart 2
 
 ```{r}
