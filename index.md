@@ -1,22 +1,3 @@
-Visualizations {data-icon="fa-signal"}
-===================================== 
-    
-### Chart 1
-        
-### Chart 2
+# Wesley Faveron
 
-```{r}
-```
-   
-Tables {data-icon="fa-table"}
-=====================================     
-
-### Table 1
-    
-```{r}
-```
-    
-### Table 2
-
-```{r}
-```
+[Link teste](http://madematica.blogspot.com/)
