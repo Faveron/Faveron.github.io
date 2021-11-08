@@ -6,7 +6,7 @@
 
 
 tabela
-| Nome | Link |
+| Plugin  | README |
 | ------ | ------ |
 | Geogebra | [Geogebra](https://www.geogebra.org/classic) |
 | GitHub | [plugins/github/README.md][PlGh] |
